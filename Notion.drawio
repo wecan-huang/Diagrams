@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T15:30:14.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="7yKoGeuSEssIsdbOifaF" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T15:45:14.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="C15vR5_t3Y7yYm2EqAyl" version="20.3.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="半導體">
-    <mxGraphModel dx="2378" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1538" value="電晶體" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="311" width="80" height="30" as="geometry" />
+          <mxGeometry x="51" y="320" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1539" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1524" target="VzC4P6SlFVmQ4FC_rzFb-1538" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -80,20 +80,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1540" value="閘流器" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="381" width="80" height="30" as="geometry" />
+          <mxGeometry x="91" y="384" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1541" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1524" target="VzC4P6SlFVmQ4FC_rzFb-1540" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1546" value="閘流器" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1546" value="太陽能電池" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="391" y="201" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1547" value="閘流器" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1547" value="光感測器" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="351" y="281" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1548" value="閘流器" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1548" value="發光二極體" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="321" y="141" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1549" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" parent="1" source="VzC4P6SlFVmQ4FC_rzFb-1526" target="VzC4P6SlFVmQ4FC_rzFb-1546">
