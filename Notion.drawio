@@ -1,29 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T14:48:25.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="m2WeiB1q21m3MFfrcHnp" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T15:30:14.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="7yKoGeuSEssIsdbOifaF" version="20.3.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="半導體">
-    <mxGraphModel dx="786" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2378" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XJvKfV6S47I9_wOl1pvC-1545" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=8;" parent="1" source="1515" target="XJvKfV6S47I9_wOl1pvC-1544" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1521" value="半導體" style="ellipse" vertex="1" parent="1">
+          <mxGeometry x="191" y="201" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XJvKfV6S47I9_wOl1pvC-1547" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=9;" parent="1" source="1515" target="XJvKfV6S47I9_wOl1pvC-1546" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1522" value="積體電路" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="111" y="101" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XJvKfV6S47I9_wOl1pvC-1549" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=9;" parent="1" source="1515" target="XJvKfV6S47I9_wOl1pvC-1548" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1523" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1521" target="VzC4P6SlFVmQ4FC_rzFb-1522" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1515" value="半導體" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="961" y="676.5" width="270" height="270" as="geometry" />
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1524" value="分離式元件" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="301" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XJvKfV6S47I9_wOl1pvC-1544" value="積體電路" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;align=center;strokeColor=#6c8ebf;strokeWidth=6;fillColor=#dae8fc;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1670" y="70" width="270" height="270" as="geometry" />
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1525" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1521" target="VzC4P6SlFVmQ4FC_rzFb-1524" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="XJvKfV6S47I9_wOl1pvC-1546" value="分離式半導體" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;align=center;strokeColor=#82b366;strokeWidth=6;fillColor=#d5e8d4;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="961" y="1320" width="270" height="270" as="geometry" />
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1526" value="光電元件" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="221" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XJvKfV6S47I9_wOl1pvC-1548" value="光電半導體" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;align=center;strokeColor=#d79b00;strokeWidth=6;fillColor=#ffe6cc;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="80" width="270" height="270" as="geometry" />
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1527" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1521" target="VzC4P6SlFVmQ4FC_rzFb-1526" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1528" value="邏輯IC" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="51" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1529" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1522" target="VzC4P6SlFVmQ4FC_rzFb-1528" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1530" value="類比IC" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="21" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1531" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1522" target="VzC4P6SlFVmQ4FC_rzFb-1530" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1532" value="微元件" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="151" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1533" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1522" target="VzC4P6SlFVmQ4FC_rzFb-1532" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1534" value="記憶體IC" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="21" y="71" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1535" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1522" target="VzC4P6SlFVmQ4FC_rzFb-1534" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1536" value="二極體" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="371" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1537" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1524" target="VzC4P6SlFVmQ4FC_rzFb-1536" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1538" value="電晶體" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="311" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1539" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1524" target="VzC4P6SlFVmQ4FC_rzFb-1538" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1540" value="閘流器" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="381" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1541" value="" style="curved=1;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" source="VzC4P6SlFVmQ4FC_rzFb-1524" target="VzC4P6SlFVmQ4FC_rzFb-1540" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1546" value="閘流器" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="201" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1547" value="閘流器" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="281" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1548" value="閘流器" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="141" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1549" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" parent="1" source="VzC4P6SlFVmQ4FC_rzFb-1526" target="VzC4P6SlFVmQ4FC_rzFb-1546">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1700" y="200" as="sourcePoint" />
+            <mxPoint x="1750" y="150" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1550" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" parent="1" source="VzC4P6SlFVmQ4FC_rzFb-1526" target="VzC4P6SlFVmQ4FC_rzFb-1547">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890.0005466072344" y="87.25158102853152" as="sourcePoint" />
+            <mxPoint x="1969.9954305666515" y="54.99995335187987" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzC4P6SlFVmQ4FC_rzFb-1551" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;" edge="1" parent="1" source="VzC4P6SlFVmQ4FC_rzFb-1526" target="VzC4P6SlFVmQ4FC_rzFb-1548">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1930.0005466072344" y="102.25158102853152" as="sourcePoint" />
+            <mxPoint x="1969.9954305666515" y="132.24995335187987" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
