@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T09:35:24.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="uFiPm6S7vOlGS7Rp_PKF" version="20.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-28T09:45:59.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="vlCYL6TZmlszipkLTvTu" version="20.3.6" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="半導體區分">
     <mxGraphModel dx="1955" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
         <mxCell id="TzOzlzXY699ys9c-U51N-12" value="1987~Now&lt;br&gt;&lt;ol&gt;&lt;li&gt;1980年，聯電成立。&lt;/li&gt;&lt;li&gt;1987年，台積電成立。&lt;/li&gt;&lt;li&gt;1986年，美國逼迫日本簽半導體協議。&lt;/li&gt;&lt;li&gt;由於晶片製作費高漲，導致IDM公司越來越少，無工廠設計公司越來越多。形成設計與製造分工樣貌。&lt;/li&gt;&lt;li&gt;此時期，屬於半導體產品成熟期，形成多國競爭局面。&lt;/li&gt;&lt;li&gt;晶圓代工費用大約佔成本的1/3。&lt;/li&gt;&lt;li&gt;台灣無IDM公司，國外大多為IDM公司。&lt;/li&gt;&lt;li&gt;台灣半導體大廠(全球前50大)，較少生產OSD半導體元件，著重於設計與積體電路代工。&lt;/li&gt;&lt;li&gt;OSD半導體元件大多集中在日本、歐洲大廠。&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=10;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="190" width="140" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="Au12b1XndFxQXe6gcPRV-1" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1883~1947&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;1904年，夫萊明利用愛迪生效應發明二極真空管。&lt;/li&gt;&lt;li&gt;1906年，德福雷斯特在二極真空管中加入閘極，發明出三極真空管。&lt;/li&gt;&lt;li&gt;由於真空管體積過大，所以固態物理學誕生，發明固態放大器取代真空管，讓體積變小，用電變少。&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=10;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Au12b1XndFxQXe6gcPRV-1" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1883~1947&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;1904年，夫萊明利用愛迪生效應發明二極真空管。&lt;/li&gt;&lt;li&gt;1906年，德福雷斯特在二極真空管中加入閘極，發明出三極真空管。&lt;/li&gt;&lt;li&gt;由於真空管體積過大，所以固態物理學誕生，發明固態放大器取代真空管，讓體積變小，用電變少。&lt;/li&gt;&lt;li&gt;1939年~1945年，二次世界大戰。&lt;/li&gt;&lt;li&gt;1914年～1918年，一次世界大戰。&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=10;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="35" y="190" width="140" height="470" as="geometry" />
         </mxCell>
       </root>
